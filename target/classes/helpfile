@@ -1,0 +1,8 @@
+http://websystique.com/springmvc/spring-mvc-4-angularjs-example/
+
+
+Deploy & Run
+
+Now build the war (either by eclipse as was mentioned in previous tutorials) or via maven command line( mvn clean install). Deploy the war to a Servlet 3.0 container . Since here i am using Tomcat, i will simply put this war file into tomcat webapps folder and click on startup.bat inside tomcat/bin directory.
+
+Open browser and browse at http://localhost:8080/Spring4MVCAngularJSExample/
